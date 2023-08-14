@@ -9,6 +9,9 @@
 <p>Toda  minha experiência estar sendo adquirida durante a graduação como tecnólogo em Análise e Desenvolvimento de Sistemas, no estágio como Dev. Full Stack, cursos complementares, projetos pessoais e projetos que atuei como freelancer.
 </p>
 
+#### <a href="https://manoelpatrocinio.vercel.app/" target="_blank" style="color:#db14df;" > Acessar Meu Portfolio</a>
+
+
 <!--
 
 
@@ -43,7 +46,8 @@ Here are some ideas to get you started:
 ## 
   
   <div> 
- 
+
+   
   <a href="https://www.instagram.com/patrocinioiii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:manoelpatrocinio99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manoel-patroc%C3%ADnio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
