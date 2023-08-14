@@ -1,6 +1,13 @@
 ### Olá, Eu sou o Manoel Patrocinio 😄
 ##### Seja bem vindo ao meu perfil 👋
-<p>Desenvolvedor Fullstack versátil e proativo com experiência sólida em construção de aplicações web com React, TypeScript, NodeJs e banco de dados relacionais ou NoSQL.</p>
+
+<p> Sou desenvolvedor web, com conhecimento e experiência principalmente em tecnologias e atividades voltadas ao Front-End como: Desenvolvimento de aplicações com React em conjunto com o superset  TypeScript e Tailwind ou Bootstrap,  para maior agilidade e otimização do tempo de desenvolvimento. Assim como, levantamento de requisitos, modelagem e prototipagem de alta fidelidade usando o Figma. Sendo capaz de integrar aplicações com APIs externas. 
+</p>
+
+<p> Também possuo experiência no desenvolvimento de APIs, usando Node.js, TypeScript e Express, com conexão ao banco de dados tanto SQL como NoSql, usando SGBDS como MySQL, PostgreSQL e MongoDB. </p>
+
+<p>Toda  minha experiência estar sendo adquirida durante a graduação como tecnólogo em Análise e Desenvolvimento de Sistemas, no estágio como Dev. Full Stack, cursos complementares, projetos pessoais e projetos que atuei como freelancer.
+</p>
 
 <!--
 
