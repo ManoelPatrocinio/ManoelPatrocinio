@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Manoel Patrocinio 😄
 ##### Seja bem vindo ao meu perfil 👋
+<p>Desenvolvedor Fullstack versátil e proativo com experiência sólida em construção de aplicações web com React, TypeScript, NodeJs e banco de dados relacionais ou NoSQL.</p>
 
-##
 <!--
 
 
